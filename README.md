@@ -12,5 +12,10 @@ https://github.com/ocornut/imgui
 
 # UPD
 maybe I'll update this because there is something to strive for
-tou can look ss this work
-![Uploading image.jpeg…]()
+
+
+
+![image](https://github.com/LIBBBhhh/Fps_treacker_ImGui/assets/131472646/3c3c9baa-43e0-46e5-b241-2a506b31ad46)
+
+
+
